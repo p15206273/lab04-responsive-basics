@@ -36,7 +36,7 @@ section:hover {
 
 @media screen and (min-width: 500px) {
   body {
-	background: #f00;
+	background: blue;
 	font-family: arial;
   }
   
